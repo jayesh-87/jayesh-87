@@ -1,52 +1,75 @@
-# 💫 About Me
-Hi there! I'm **Jayesh**, a Final Year B.Tech student and passionate developer.  
-🔭 I’m currently working on **Stock Price Prediction Models** & **MERN Stack Apps** 👯 I’m looking to collaborate on **Data Mining & Blockchain Technologies** 💡 I love exploring **Quantum Computing, AI, and System Design** ---
+# 💫 Hi, I'm Jayesh
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  
+  **Data Science Enthusiast | Machine Learning Practitioner | Final Year B.Tech**
+  
+  <a href="https://www.linkedin.com/in/jayesh-solanke">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jayeshsoanke47@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jayesh-87&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jayesh-87&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-87&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jayesh-87&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayesh-87&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-# 🚀 Featured Projects
-Here are some projects I've been working on:
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Stock Price Predictor** | Forecasting stock trends using LSTM/XGBoost & MStock API | Python, MySQL, ML |
-| **Book Management System** | Full-stack library management application | MERN Stack (MongoDB, Express, React, Node) |
-| **Smart Visitor System** | Digital visitor and parking management solution | Web Technologies |
-| **Portfolio Website** | Personal developer portfolio showcasing my work | HTML, CSS, JS |
-
-*(Check my repositories for the source code)*
+- 🔭 I’m currently focused on **Predictive Modeling** and **Time-Series Analysis** (Stock Markets).
+- 💼 I have experience working on **Data Science Intern Assessments** (e.g., Zopper) involving real-world datasets.
+- 👯 I’m looking to collaborate on **AI/ML projects** and **Data Mining** research.
+- 🧠 My research interests include **Quantum Computing's** impact on data security and blockchain.
 
 ---
 
-# 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-solanke)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshsoanke47@gmail.com)
+### 🛠️ Data Science Tech Stack
+
+<div align="center">
+
+| **Core Languages** | **Data & ML Libraries** | **Tools & Databases** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/sql-%23000.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jayesh-87&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Data Science Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📈 Stock Price Predictor** | A forecasting system utilizing **LSTM** and **XGBoost** models to predict stock trends using the MStock API. | `Python` `TensorFlow` `XGBoost` `MySQL` |
+| **⛏️ Data Mining Analysis** | Implementation of data warehousing concepts and mining algorithms for pattern discovery. | `Python` `Pandas` `DMDW` |
+| **🕷️ Data Collection Bot** | Custom web scrapers built to aggregate unstructured data for dataset creation. | `Python` `BeautifulSoup` `Selenium` |
+| **📚 Book Mgmt Analytics** | (Full Stack) A MERN app with a focus on database management and backend logic. | `MongoDB` `Node.js` `React` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  ![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-87&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-87&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+### 🏆 Research & Achievements
+- **Seminar:** Conducted research on "Quantum Computing's Threat to and Enhancement of Blockchain Security."
+- **Internship:** Selected for Data Science assessment by Zopper.
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=jayesh-87&icon=0&color=0)
+
+</div>
