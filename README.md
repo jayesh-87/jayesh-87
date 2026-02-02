@@ -28,9 +28,9 @@ Hi there! I'm **Jayesh**, a Final Year B.Tech student and **Aspiring QA/Automati
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jayesh-87&theme=radical&no-frame=true&row=1&column=6)
-
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-87&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-87&layout=compact&theme=radical)
 ---
 
 # 🔝 Top Repositories
