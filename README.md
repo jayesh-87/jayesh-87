@@ -47,8 +47,6 @@ Here are projects that highlight my QA and automation skills:
 | **📚 Automated Library Management System** | End-to-end UI automation of a library system using **Selenium** and **Page Object Model (POM)** | Python, Selenium, Git, POM |
 | **🚀 Selenium UI Framework** | Framework design for web application testing with **data-driven testing** | Python, Selenium, CSV/Excel |
 | **📈 Stock Price Predictor** | Built ML models to predict stock trends (bonus: code quality & testing exposure) | Python, TensorFlow, SQL |
-| **📱 Appium Mobile Automation** | Automated Android/iOS app flows to validate user scenarios | Appium, Python |
-
 *(Check my repositories for source code and test scripts)*
 
 ---
