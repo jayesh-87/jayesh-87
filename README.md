@@ -1,61 +1,92 @@
+
 # 💫 About Me
-Hi there! I'm **Jayesh**, a Final Year B.Tech student and **Aspiring QA/Automation Engineer**.  
-🔭 I’m currently building **automation frameworks** and exploring **Selenium, Appium, and Python** for UI and mobile testing.  
-👯 I’m looking to collaborate on **QA, Test Automation, and Software Testing** projects.  
-💡 I love exploring **Automation Frameworks, CI/CD integration, and Test-Driven Development (TDD)**.
+
+Hi, I'm **Jayesh Solanke**, a **Software Development Engineer in Test (SDET 1) at GoComet**.
+
+I work on building and maintaining test automation, validating APIs, and improving software quality across web applications and backend services.
+
+- 🔭 Working on **test automation using Java and Playwright**
+- 🧪 Experienced in **UI automation, API testing, regression testing, and integration testing**
+- ⚙️ Exploring **CI/CD pipelines, Jenkins, and reliable automation workflows**
+- 🐞 Investigating defects, debugging test failures, and improving test coverage
+- 🌱 Continuously learning about **scalable automation frameworks, software quality engineering, and performance testing**
+- 🤝 Interested in collaborating on test automation, developer tools, and quality engineering projects
 
 ---
 
 # 💻 Tech Stack
-### 🧪 QA & Automation
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=Appium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-6DB33F?style=for-the-badge&logo=TestNG&logoColor=white)
 
-### 🌐 Web & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧪 QA & Test Automation
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-005571?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌐 Development & APIs
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ⚙️ Tools & Workflow
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 🚀 Areas of Interest
+
+- Test Automation Frameworks
+- End-to-End UI Automation
+- API & Integration Testing
+- Regression Testing
+- CI/CD & Continuous Testing
+- Performance & Load Testing
+- Debugging and Root Cause Analysis
+- Software Quality Engineering
+
+---
+
+# 📌 Featured Projects
+
+### 📚 Automated Library Management System
+
+An automation-focused project for validating library management workflows.
+
+**Tech Stack:** Python, Selenium, Page Object Model (POM)
+
+[View Repository](https://github.com/jayesh-87/Automated-Library-Management-System)
+
+### 📈 Stock Price Predictor
+
+A machine learning project focused on analyzing and predicting stock price trends.
+
+**Tech Stack:** Python, TensorFlow, SQL
+
+[View Repository](https://github.com/jayesh-87/Stock-Price-Predictor)
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jayesh-87&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jayesh-87&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-87&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-87&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-87&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jayesh-87&theme=dark&hide_border=true)
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-87&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-87&layout=compact&theme=radical)
----
+# 📫 Connect With Me
 
-# 🔝 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayesh-87&repo=Automated-Library-Management-System&theme=dark)](https://github.com/jayesh-87/Automated-Library-Management-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jayesh-87&repo=Stock-Price-Predictor&theme=dark)](https://github.com/jayesh-87/Stock-Price-Predictor)
-
----
-
-# 🚀 Featured QA/Automation Projects
-Here are projects that highlight my QA and automation skills:
-
-| Project | Description | Tech Stack |
-|---------|-------------|------|
-| **📚 Automated Library Management System** | End-to-end UI automation of a library system using **Selenium** and **Page Object Model (POM)** | Python, Selenium, Git, POM |
-| **🚀 Selenium UI Framework** | Framework design for web application testing with **data-driven testing** | Python, Selenium, CSV/Excel |
-| **📈 Stock Price Predictor** | Built ML models to predict stock trends (bonus: code quality & testing exposure) | Python, TensorFlow, SQL |
-
-*(Check my repositories for source code and test scripts)*
-
----
-
-# 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-solanke)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshsoanke47@gmail.com)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jayesh-87&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=jayesh-87&icon=0&color=0)
